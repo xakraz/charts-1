@@ -1,0 +1,1457 @@
+apiVersion: v1
+entries:
+  389ds:
+  - apiVersion: v2
+    appVersion: fedora-32
+    created: "2020-12-02T08:47:25.050350643Z"
+    description: 389 Directory Server
+    digest: 156e7af581a1702d66d38b5749714f124f377c3e0e432b7173f17081ff7bba74
+    name: 389ds
+    type: application
+    urls:
+    - 389ds-0.1.0.tgz
+    version: 0.1.0
+  dex:
+  - apiVersion: v2
+    appVersion: v2.26.0
+    created: "2020-12-02T08:47:25.062897386Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable
+      Connectors
+    digest: 69250e10d3eedcce696abb43a233079ab932e77df405689999505fc34fa2ad74
+    home: https://github.com/dexidp/dex
+    icon: https://raw.githubusercontent.com/dexidp/dex/master/Documentation/logos/dex-horizontal-color.png
+    keywords:
+    - authentication
+    - idp
+    - oidc
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: dex
+    type: application
+    urls:
+    - dex-4.0.0.tgz
+    version: 4.0.0
+  - apiVersion: v2
+    appVersion: v2.26.0
+    created: "2020-12-02T08:47:25.062030476Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable
+      Connectors
+    digest: cc9d3ac0aa91fd26faae8353e2c167d19bbd7388e6737e089f3478357a49a2ac
+    home: https://github.com/dexidp/dex
+    icon: https://raw.githubusercontent.com/dexidp/dex/master/Documentation/logos/dex-horizontal-color.png
+    keywords:
+    - authentication
+    - idp
+    - oidc
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: dex
+    type: application
+    urls:
+    - dex-3.8.0.tgz
+    version: 3.8.0
+  - apiVersion: v2
+    appVersion: v2.26.0
+    created: "2020-12-02T08:47:25.061223567Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable
+      Connectors
+    digest: 7f7822e7cef57d4617df758df0351d1c22e11e96c1611a0f9440ca0a3b06868f
+    home: https://github.com/dexidp/dex
+    icon: https://raw.githubusercontent.com/dexidp/dex/master/Documentation/logos/dex-horizontal-color.png
+    keywords:
+    - authentication
+    - idp
+    - oidc
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: dex
+    type: application
+    urls:
+    - dex-3.7.0.tgz
+    version: 3.7.0
+  - apiVersion: v2
+    appVersion: v2.25.0
+    created: "2020-12-02T08:47:25.060381457Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable
+      Connectors
+    digest: 1f2fae50ee9cbf5a57684607d9ea4a3c2d2aee92459ee313d2032a9e0fff3e67
+    home: https://github.com/dexidp/dex
+    icon: https://raw.githubusercontent.com/dexidp/dex/master/Documentation/logos/dex-horizontal-color.png
+    keywords:
+    - authentication
+    - idp
+    - oidc
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: dex
+    type: application
+    urls:
+    - dex-3.6.0.tgz
+    version: 3.6.0
+  - apiVersion: v2
+    appVersion: v2.25.0
+    created: "2020-12-02T08:47:25.059608548Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable
+      Connectors
+    digest: 95caf026259d3c513a5ccb0ec6a679a270a75c160f0834276908159eaa8b7e77
+    home: https://github.com/dexidp/dex
+    icon: https://raw.githubusercontent.com/dexidp/dex/master/Documentation/logos/dex-horizontal-color.png
+    keywords:
+    - authentication
+    - idp
+    - oidc
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: dex
+    type: application
+    urls:
+    - dex-3.5.1.tgz
+    version: 3.5.1
+  - apiVersion: v2
+    appVersion: v2.25.0
+    created: "2020-12-02T08:47:25.05883054Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable
+      Connectors
+    digest: 477ae7dfaf0d2df2c96ad3e7003ffb4cdfbfd2a2149944c3bc2973b9d906ec18
+    home: https://github.com/dexidp/dex
+    icon: https://raw.githubusercontent.com/dexidp/dex/master/Documentation/logos/dex-horizontal-color.png
+    keywords:
+    - authentication
+    - idp
+    - oidc
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: dex
+    type: application
+    urls:
+    - dex-3.5.0.tgz
+    version: 3.5.0
+  - apiVersion: v2
+    appVersion: v2.24.0
+    created: "2020-12-02T08:47:25.05797913Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable
+      Connectors
+    digest: e2946ecff252901941e78fd8a4182c3969ba431d60885aa613f07f035fea403e
+    home: https://github.com/dexidp/dex
+    icon: https://raw.githubusercontent.com/dexidp/dex/master/Documentation/logos/dex-horizontal-color.png
+    keywords:
+    - authentication
+    - idp
+    - oidc
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: dex
+    type: application
+    urls:
+    - dex-3.4.0.tgz
+    version: 3.4.0
+  - apiVersion: v2
+    appVersion: v2.23.0
+    created: "2020-12-02T08:47:25.057195721Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable
+      Connectors
+    digest: 8e29e46a05848c51bdb4c15ef6981110247320a7cffd829b936b8842a7875a79
+    home: https://github.com/dexidp/dex
+    icon: https://raw.githubusercontent.com/dexidp/dex/master/Documentation/logos/dex-horizontal-color.png
+    keywords:
+    - authentication
+    - idp
+    - oidc
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: dex
+    type: application
+    urls:
+    - dex-3.3.0.tgz
+    version: 3.3.0
+  - apiVersion: v2
+    appVersion: v2.22.0
+    created: "2020-12-02T08:47:25.056387912Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable
+      Connectors
+    digest: 70676f009eae0660598deb064d0a6bdee4629014932a1f72d6b7c0660bf3ed4f
+    home: https://github.com/dexidp/dex
+    icon: https://raw.githubusercontent.com/dexidp/dex/master/Documentation/logos/dex-horizontal-color.png
+    keywords:
+    - authentication
+    - idp
+    - oidc
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: dex
+    type: application
+    urls:
+    - dex-3.2.0.tgz
+    version: 3.2.0
+  - apiVersion: v2
+    appVersion: v2.22.0
+    created: "2020-12-02T08:47:25.055645603Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable
+      Connectors
+    digest: ded78ad6c7489c73ee3f20dece6db91e9d843a824c8992bfdab6214a9fcee0bb
+    home: https://github.com/dexidp/dex
+    icon: https://raw.githubusercontent.com/dexidp/dex/master/Documentation/logos/dex-horizontal-color.png
+    keywords:
+    - authentication
+    - idp
+    - oidc
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: dex
+    type: application
+    urls:
+    - dex-3.1.0.tgz
+    version: 3.1.0
+  - apiVersion: v2
+    appVersion: v2.21.0
+    created: "2020-12-02T08:47:25.054938395Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable
+      Connectors
+    digest: b12119d20ea66f3d22f2d6f194af374376bb77ffc7861dee67d1dad53618628e
+    home: https://github.com/dexidp/dex
+    icon: https://raw.githubusercontent.com/dexidp/dex/master/Documentation/logos/dex-horizontal-color.png
+    keywords:
+    - authentication
+    - idp
+    - oidc
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: dex
+    type: application
+    urls:
+    - dex-3.0.1.tgz
+    version: 3.0.1
+  - apiVersion: v2
+    appVersion: v2.21.0
+    created: "2020-12-02T08:47:25.054190887Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider with Pluggable
+      Connectors
+    digest: f3deeb2fa125f8f1fe02d5fcf4b84c02106cd4a3002cef36d750e0b5f696867f
+    home: https://github.com/dexidp/dex
+    icon: https://raw.githubusercontent.com/dexidp/dex/master/Documentation/logos/dex-horizontal-color.png
+    keywords:
+    - authentication
+    - idp
+    - oidc
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: dex
+    type: application
+    urls:
+    - dex-3.0.0.tgz
+    version: 3.0.0
+  - apiVersion: v1
+    appVersion: v2.15.0
+    created: "2020-12-02T08:47:25.053488478Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider
+    digest: 608ad8535ab7fa1ad724990d3d80bb9f2ce8c816bced62a7ee0f15f739785d88
+    home: https://github.com/dexidp/dex
+    icon: https://raw.githubusercontent.com/dexidp/dex/master/Documentation/logos/dex-glyph-color.png
+    keywords:
+    - authentication
+    - authorization
+    - idp
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: dex
+    urls:
+    - dex-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v1
+    appVersion: v2.15.0
+    created: "2020-12-02T08:47:25.053314276Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider
+    digest: b0b08f2b4ce6a6352021bcda98806f5ada1820bca82e08148bba91320688d2ea
+    home: https://github.com/dexidp/dex
+    icon: https://raw.githubusercontent.com/dexidp/dex/master/Documentation/logos/dex-glyph-color.png
+    keywords:
+    - authentication
+    - authorization
+    - idp
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: dex
+    urls:
+    - dex-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v1
+    appVersion: v2.14.0
+    created: "2020-12-02T08:47:25.05277337Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider
+    digest: a99e4c2f24104027a9e12d1c5b330f401c6590ed8ddf3f8242334e1f59f1c3aa
+    home: https://github.com/dexidp/dex
+    icon: https://raw.githubusercontent.com/dexidp/dex/master/Documentation/logos/dex-glyph-color.png
+    keywords:
+    - authentication
+    - authorization
+    - idp
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: dex
+    urls:
+    - dex-1.0.3.tgz
+    version: 1.0.3
+  - apiVersion: v1
+    appVersion: v2.14.0
+    created: "2020-12-02T08:47:25.052211264Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider
+    digest: dc9c1fdd5ba2d86c987de9f79d7e655258d8cc869de85214f73c82c7cecef640
+    home: https://github.com/dexidp/dex
+    icon: https://raw.githubusercontent.com/dexidp/dex/master/Documentation/logos/dex-glyph-color.png
+    keywords:
+    - authentication
+    - authorization
+    - idp
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: dex
+    urls:
+    - dex-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v1
+    appVersion: v2.14.0
+    created: "2020-12-02T08:47:25.051661258Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider
+    digest: 94c1051cc0a5d426402f644b671b98682cfc59b66bc041e99d29dd2f14454fc7
+    name: dex
+    urls:
+    - dex-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v1
+    appVersion: v2.14.0
+    created: "2020-12-02T08:47:25.050934049Z"
+    description: OpenID Connect Identity (OIDC) and OAuth 2.0 Provider
+    digest: 09b6141abeafe3e4e19ea7c59366718c171e4ac1079769a88735d81c81e38c1d
+    name: dex
+    urls:
+    - dex-1.0.0.tgz
+    version: 1.0.0
+  fcgi-nginx-frontend:
+  - apiVersion: v2
+    appVersion: 1.17.8
+    created: "2020-12-02T08:47:25.065072811Z"
+    deprecated: true
+    description: Expose a FastCGI application
+    digest: faf16b37a1225eb443f172f3f3bbfc0ef9b450dba44cc62fae1d03d58a057058
+    name: fcgi-nginx-frontend
+    type: application
+    urls:
+    - fcgi-nginx-frontend-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.17.8
+    created: "2020-12-02T08:47:25.064165601Z"
+    description: Expose a FastCGI application
+    digest: 0f2fe361559a24e85196621876f7f6b32cfa36d11c2153358a40a27aa0c7816e
+    name: fcgi-nginx-frontend
+    type: application
+    urls:
+    - fcgi-nginx-frontend-0.1.0.tgz
+    version: 0.1.0
+  gangway:
+  - apiVersion: v2
+    appVersion: v3.2.0
+    created: "2020-12-02T08:47:25.06763424Z"
+    description: An application that can be used to easily enable authentication flows
+      via OIDC for a kubernetes cluster.
+    digest: f211c94aedd4120f96c46db5ff0587352abd7cdf4b78f99d26124a4c5a99dd03
+    home: https://github.com/heptiolabs/gangway
+    keywords:
+    - authentication
+    - k8s
+    - oidc
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: gangway
+    type: application
+    urls:
+    - gangway-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
+    appVersion: v3.2.0
+    created: "2020-12-02T08:47:25.066922832Z"
+    description: An application that can be used to easily enable authentication flows
+      via OIDC for a kubernetes cluster.
+    digest: 5d45ef3d7998d56e5a92a47e64917576efe2cff2fef63e31e963a9b20a427d4e
+    home: https://github.com/heptiolabs/gangway
+    keywords:
+    - authentication
+    - k8s
+    - oidc
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: gangway
+    type: application
+    urls:
+    - gangway-1.0.1.tgz
+    version: 1.0.1
+  guacamole:
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2020-12-02T08:47:25.072192992Z"
+    description: A remote desktop frontend
+    digest: db13f84c4f4d052d71fb732f39bc60a6a6de8b5723074f2311541988e1fa70d4
+    name: guacamole
+    type: application
+    urls:
+    - guacamole-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v2
+    appVersion: 1.2.0
+    created: "2020-12-02T08:47:25.071459684Z"
+    description: A remote desktop frontend
+    digest: 09f26e69feed915b2a92fb8299509f8f33710902c42a6db1c5d863cd22cd4bc5
+    name: guacamole
+    type: application
+    urls:
+    - guacamole-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2020-12-02T08:47:25.070741876Z"
+    description: A remote desktop frontend
+    digest: 3525ff1733976a2526b88e2c78e0c5efd31ce9fbd143696e49acecc7313c0d16
+    name: guacamole
+    type: application
+    urls:
+    - guacamole-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2020-12-02T08:47:25.070106868Z"
+    description: A remote desktop frontend
+    digest: b862d551c22b1c46d56e12324e2912097003e1a31641f7aa66699ec998625da4
+    name: guacamole
+    type: application
+    urls:
+    - guacamole-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2020-12-02T08:47:25.069465361Z"
+    description: A remote desktop frontend
+    digest: e878826ee6a12c34691452a925ef4101a16875b2ade5c8840b8ba4b24ecd364f
+    name: guacamole
+    type: application
+    urls:
+    - guacamole-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2020-12-02T08:47:25.068816454Z"
+    description: A remote desktop frontend
+    digest: 8fbd8f176ba54f6612295789fc86f2c18ac1ad122fce533e3ed1f9e8e87e4d5b
+    name: guacamole
+    type: application
+    urls:
+    - guacamole-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.1.0
+    created: "2020-12-02T08:47:25.068180246Z"
+    description: A remote desktop frontend
+    digest: 5709425e7b5a648ce067dc2e821342b6091de3ee469e864e0d5976e8b9944592
+    name: guacamole
+    type: application
+    urls:
+    - guacamole-0.1.0.tgz
+    version: 0.1.0
+  imagepullsecrets:
+  - apiVersion: v1
+    created: "2020-12-02T08:47:25.073841211Z"
+    description: Declarative configuration for imagepullsecrets
+    digest: 4897c98356228c51a3e8a704e2a17e7ea33c12056947f3d26343cdf29bd53493
+    keywords:
+    - authentication
+    - secrets
+    - docker-registry
+    - imagepullsecrets
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: imagepullsecrets
+    urls:
+    - imagepullsecrets-3.0.0.tgz
+    version: 3.0.0
+  - apiVersion: v1
+    created: "2020-12-02T08:47:25.073580708Z"
+    description: Declarative configuration for imagepullsecrets
+    digest: 864641f42156a8c8503636119f2bd58de27e86465e9cf14ee51de9e46e64934e
+    keywords:
+    - authentication
+    - secrets
+    - docker-registry
+    - imagepullsecrets
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: imagepullsecrets
+    urls:
+    - imagepullsecrets-2.1.0.tgz
+    version: 2.1.0
+  - apiVersion: v1
+    created: "2020-12-02T08:47:25.073323405Z"
+    description: Declarative configuration for imagepullsecrets
+    digest: e3d23d87f136397d9d912098c5850bf55eb6c685ea7d62b66c5b0c5cf462be7e
+    keywords:
+    - authentication
+    - secrets
+    - docker-registry
+    - imagepullsecrets
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: imagepullsecrets
+    urls:
+    - imagepullsecrets-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v1
+    created: "2020-12-02T08:47:25.073051302Z"
+    description: Declarative configuration for imagepullsecrets
+    digest: 3595733a9917a3e2f3afb96b6241781c01aedafa6a8d00be0cf6062d9737893c
+    keywords:
+    - authentication
+    - secrets
+    - docker-registry
+    - imagepullsecrets
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: imagepullsecrets
+    urls:
+    - imagepullsecrets-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v1
+    created: "2020-12-02T08:47:25.072748199Z"
+    description: Declarative configuration for imagepullsecrets
+    digest: e5af926bb4115681e7acfed2b4674c77e5c33f32373ab7f163c727c8b4a3c1a1
+    keywords:
+    - authentication
+    - secrets
+    - docker-registry
+    - imagepullsecrets
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: imagepullsecrets
+    urls:
+    - imagepullsecrets-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v1
+    created: "2020-12-02T08:47:25.072467295Z"
+    description: Declarative configuration for imagepullsecrets
+    digest: bc6db53bb611d46da3a8a133d537ecdbf76d4e659072a847cfd67bcf62fd000f
+    keywords:
+    - authentication
+    - secrets
+    - docker-registry
+    - imagepullsecrets
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: imagepullsecrets
+    urls:
+    - imagepullsecrets-1.0.0.tgz
+    version: 1.0.0
+  keycloak-gatekeeper:
+  - apiVersion: v2
+    appVersion: 10.0.0
+    created: "2020-12-02T08:47:25.09387304Z"
+    deprecated: true
+    description: Keycloak gatekeeper
+    digest: f3a563e6f147971502f7e1254d89f45d23ac101771731e165e4cf6e826482526
+    home: https://www.keycloak.org
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.svg
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    sources:
+    - https://github.com/keycloak/keycloak-containers
+    - https://github.com/keycloak/keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-4.0.0.tgz
+    version: 4.0.0
+  - apiVersion: v1
+    appVersion: 10.0.0
+    created: "2020-12-02T08:47:25.092218821Z"
+    description: Keycloak gatekeeper
+    digest: 8015adf3b554d0dc3f44001e96d31923e370609f16d3ad3d0a83a2a955b3cf2f
+    home: https://www.keycloak.org
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.svg
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    sources:
+    - https://github.com/keycloak/keycloak-containers
+    - https://github.com/keycloak/keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-3.3.2.tgz
+    version: 3.3.2
+  - apiVersion: v1
+    appVersion: 10.0.0
+    created: "2020-12-02T08:47:25.091309611Z"
+    description: Keycloak gatekeeper
+    digest: 1eca8d598b4155b862bd4a42bbac77f09b075be849267d836cd3b8b4f705489f
+    home: https://www.keycloak.org
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.svg
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    sources:
+    - https://github.com/keycloak/keycloak-containers
+    - https://github.com/keycloak/keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-3.3.1.tgz
+    version: 3.3.1
+  - apiVersion: v1
+    appVersion: 10.0.0
+    created: "2020-12-02T08:47:25.0903747Z"
+    description: Keycloak gatekeeper
+    digest: 285724b56b9fac4186d8849b42075bf6259ac1cbcacbd2deed0cf847ca89d9c1
+    home: https://www.keycloak.org
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.svg
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    sources:
+    - https://github.com/keycloak/keycloak-containers
+    - https://github.com/keycloak/keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-3.3.0.tgz
+    version: 3.3.0
+  - apiVersion: v1
+    appVersion: 9.0.2
+    created: "2020-12-02T08:47:25.08945729Z"
+    description: Keycloak gatekeeper
+    digest: 2e5c5783cec2b3e330d03af944ccd23b9bda5610e9f2f33052c265a311602183
+    home: https://www.keycloak.org
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.svg
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    sources:
+    - https://github.com/keycloak/keycloak-containers
+    - https://github.com/keycloak/keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-3.2.2.tgz
+    version: 3.2.2
+  - apiVersion: v1
+    appVersion: 9.0.2
+    created: "2020-12-02T08:47:25.08857088Z"
+    description: Keycloak gatekeeper
+    digest: a1742faa62ee5849ab5787711d4f01b9cd0fbb8d6f42a4d86c5f9c815f43e493
+    home: https://www.keycloak.org
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.svg
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    sources:
+    - https://github.com/keycloak/keycloak-containers
+    - https://github.com/keycloak/keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-3.2.0.tgz
+    version: 3.2.0
+  - apiVersion: v1
+    appVersion: 9.0.2
+    created: "2020-12-02T08:47:25.08771617Z"
+    description: Keycloak gatekeeper
+    digest: b632460416c7dc5a655e9f6a27ea101d77e4b8d27306d15dbfcf7d80ea0d67dc
+    home: https://www.keycloak.org
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.svg
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    sources:
+    - https://github.com/keycloak/keycloak-containers
+    - https://github.com/keycloak/keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-3.1.0.tgz
+    version: 3.1.0
+  - apiVersion: v1
+    appVersion: 9.0.0
+    created: "2020-12-02T08:47:25.08687236Z"
+    description: Keycloak gatekeeper
+    digest: 685e6eae792d6b2284bc2ecd86210ffa8a58ba48e3cb43b9c43569cad012e5e0
+    home: https://www.keycloak.org
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.svg
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    sources:
+    - https://github.com/keycloak/keycloak-containers
+    - https://github.com/keycloak/keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-3.0.0.tgz
+    version: 3.0.0
+  - apiVersion: v1
+    appVersion: 9.0.0
+    created: "2020-12-02T08:47:25.08602715Z"
+    description: Keycloak gatekeeper
+    digest: 7d7806a9ed47dfc2d9fa70860cf9a6b4cfd57f56104cdfed9c4f1417201e83d1
+    home: https://www.keycloak.org
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.svg
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    sources:
+    - https://github.com/keycloak/keycloak-containers
+    - https://github.com/keycloak/keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-2.2.0.tgz
+    version: 2.2.0
+  - apiVersion: v2
+    appVersion: 8.0.1
+    created: "2020-12-02T08:47:25.085170641Z"
+    description: Keycloak gatekeeper
+    digest: 422b5fc076e54d586ec91b1faeccc666af4e6e8ca56783c94f18f99eda3f9484
+    home: https://www.keycloak.org
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.svg
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    sources:
+    - https://github.com/keycloak/keycloak-containers
+    - https://github.com/keycloak/keycloak-gatekeeper
+    type: application
+    urls:
+    - keycloak-gatekeeper-2.1.0.tgz
+    version: 2.1.0
+  - apiVersion: v2
+    appVersion: 8.0.1
+    created: "2020-12-02T08:47:25.084306931Z"
+    description: Keycloak gatekeeper
+    digest: 7069040bc49c2e313fa89b742d01061c01b480a31632472329e91a3c3533fa7b
+    home: https://www.keycloak.org
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.svg
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    sources:
+    - https://github.com/keycloak/keycloak-containers
+    - https://github.com/keycloak/keycloak-gatekeeper
+    type: application
+    urls:
+    - keycloak-gatekeeper-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v1
+    appVersion: 8.0.1
+    created: "2020-12-02T08:47:25.083470121Z"
+    description: Keycloak gatekeeper
+    digest: 35c4a79aadf465a864b6c1ba345f00712e7bcb3f76f311381fcea4784e9cb009
+    home: https://github.com/keycloak/keycloak-gatekeeper
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.png
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-1.5.0.tgz
+    version: 1.5.0
+  - apiVersion: v1
+    appVersion: 7.0.0
+    created: "2020-12-02T08:47:25.082644612Z"
+    description: Keycloak gatekeeper
+    digest: f146a8a6b3fc0dd4ec32bfef4bf80d2eaee10c8df1e408cc06357b960a3b1f26
+    home: https://github.com/keycloak/keycloak-gatekeeper
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.png
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-1.4.1.tgz
+    version: 1.4.1
+  - apiVersion: v1
+    appVersion: 7.0.0
+    created: "2020-12-02T08:47:25.081893303Z"
+    description: Keycloak gatekeeper
+    digest: b9d70f9be80e36ce186aaa30927636c03ffb0d5d74a538ca7051c7fd4b84d986
+    home: https://github.com/keycloak/keycloak-gatekeeper
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.png
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-1.4.0.tgz
+    version: 1.4.0
+  - apiVersion: v1
+    appVersion: 6.0.1
+    created: "2020-12-02T08:47:25.081151795Z"
+    description: Keycloak gatekeeper
+    digest: 2efd26aa6121e3608fe7b78e4c739b9c627322db75a21e1b3668bf871771b663
+    home: https://github.com/keycloak/keycloak-gatekeeper
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.png
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-1.3.1.tgz
+    version: 1.3.1
+  - apiVersion: v1
+    appVersion: 6.0.1
+    created: "2020-12-02T08:47:25.080365786Z"
+    description: Keycloak gatekeeper
+    digest: 3f5898d2cb4876784f065e5f8b8f67263cb381122d27cd852a070b66295aa279
+    home: https://github.com/keycloak/keycloak-gatekeeper
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.png
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-1.3.0.tgz
+    version: 1.3.0
+  - apiVersion: v1
+    appVersion: 4.8.0.Final
+    created: "2020-12-02T08:47:25.079143872Z"
+    description: Keycloak gatekeeper
+    digest: 52aba5d05838d2c747705c54e204c2e306f41ac4289161bc645eb3a31ba683f5
+    home: https://github.com/keycloak/keycloak-gatekeeper
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.png
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-1.2.1.tgz
+    version: 1.2.1
+  - apiVersion: v1
+    appVersion: 4.8.0.Final
+    created: "2020-12-02T08:47:25.078019359Z"
+    description: Keycloak gatekeeper
+    digest: 459f98af085b275d572bca9c0c0bf1c722dd5a902b75459865250b83d2499e45
+    home: https://github.com/keycloak/keycloak-gatekeeper
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.png
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-1.2.0.tgz
+    version: 1.2.0
+  - apiVersion: v1
+    appVersion: 4.6.0.Final
+    created: "2020-12-02T08:47:25.076500542Z"
+    description: Keycloak gatekeeper
+    digest: b2cb2f8e34b5ee8ec056a8240a6668ab4c0393ac47e7502e694ec230208cf394
+    home: https://github.com/keycloak/keycloak-gatekeeper
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.png
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-1.1.1.tgz
+    version: 1.1.1
+  - apiVersion: v1
+    appVersion: 4.6.0.Final
+    created: "2020-12-02T08:47:25.075834834Z"
+    description: Keycloak gatekeeper
+    digest: d6f4eae791d066c31d119f8885792d8729d43a627656e713d9d94014885bf416
+    home: https://github.com/keycloak/keycloak-gatekeeper
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.png
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-1.1.0.tgz
+    version: 1.1.0
+  - apiVersion: v1
+    appVersion: 4.6.0.Final
+    created: "2020-12-02T08:47:25.075159026Z"
+    description: Keycloak gatekeeper
+    digest: df9090311ee043a69285586bf3bb71af1ed848060068c6838bff86db863a7cee
+    home: https://github.com/keycloak/keycloak-gatekeeper
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.png
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v1
+    appVersion: 4.6.0.Final
+    created: "2020-12-02T08:47:25.074499119Z"
+    description: Keycloak gatekeeper
+    digest: 66405e8d0c5bc200613d08658a0c5d1a8a16c3661feff7e5af41b39eafb8117d
+    home: https://github.com/keycloak/keycloak-gatekeeper
+    icon: https://raw.githubusercontent.com/keycloak/keycloak-misc/master/logo/keycloak_logo_600px.png
+    keywords:
+    - authentication
+    - authorization
+    - keycloak
+    - proxy
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: gabibbo97
+    name: keycloak-gatekeeper
+    urls:
+    - keycloak-gatekeeper-1.0.1.tgz
+    version: 1.0.1
+  kuberos:
+  - apiVersion: v2
+    appVersion: 7bc1e72
+    created: "2020-12-02T08:47:25.096420469Z"
+    deprecated: true
+    description: OIDC authentication helper for Kubernetes
+    digest: 145de232429dcb995d6524837ef43df831c6549aa05874fe5c949c52d5ea9b2d
+    name: kuberos
+    urls:
+    - kuberos-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v1
+    appVersion: 7bc1e72
+    created: "2020-12-02T08:47:25.095937164Z"
+    description: OIDC authentication helper for Kubernetes
+    digest: 5191077920d5aae19906624381c3fa967e8195b96cd85fd2a812031e5008ea7b
+    name: kuberos
+    urls:
+    - kuberos-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v1
+    appVersion: 7bc1e72
+    created: "2020-12-02T08:47:25.095279856Z"
+    description: OIDC authentication helper for Kubernetes
+    digest: 0d945d8208736b3542071ba0b048a1aa0f204d38e8d469ab8863877a4e34fba3
+    name: kuberos
+    urls:
+    - kuberos-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v1
+    appVersion: 7bc1e72
+    created: "2020-12-02T08:47:25.094520948Z"
+    description: OIDC authentication helper for Kubernetes
+    digest: e04921e48ba37e6034647b9986b5dc48b7005485eb952145b0c4d99226d0dd21
+    name: kuberos
+    urls:
+    - kuberos-1.0.0.tgz
+    version: 1.0.0
+  ldap-account-manager:
+  - apiVersion: v2
+    appVersion: "7.2"
+    created: "2020-12-02T08:47:25.098130989Z"
+    description: LDAP Account Manager
+    digest: e4d30364300eeec1d37f3b66936f9bebd0f35d0a6f51392a238e597d43afc023
+    name: ldap-account-manager
+    type: application
+    urls:
+    - ldap-account-manager-0.2.1.tgz
+    version: 0.2.1
+  - apiVersion: v2
+    appVersion: "7.2"
+    created: "2020-12-02T08:47:25.097571382Z"
+    description: LDAP Account Manager
+    digest: f6959e2263c9902c0b815cc085f9a8c0b5882af224bc55b6c018a45a3e85fea5
+    name: ldap-account-manager
+    type: application
+    urls:
+    - ldap-account-manager-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: "7.1"
+    created: "2020-12-02T08:47:25.097007476Z"
+    description: LDAP Account Manager
+    digest: 78119e5edb1a91a0af31e943aeb45f9ed021625c7cbf2f87856ab094ccca23de
+    name: ldap-account-manager
+    type: application
+    urls:
+    - ldap-account-manager-0.1.0.tgz
+    version: 0.1.0
+  mongodb:
+  - apiVersion: v2
+    appVersion: 4.0.10
+    created: "2020-12-02T08:47:25.108167704Z"
+    deprecated: true
+    description: MongoDB database
+    digest: 901d4e1450b5f1235b9559ac3f1c64a1a994e6cd1e62c4731c617b346ef731dc
+    name: mongodb
+    urls:
+    - mongodb-0.3.0.tgz
+    version: 0.3.0
+  - apiVersion: v1
+    appVersion: 4.0.10
+    created: "2020-12-02T08:47:25.107489996Z"
+    description: MongoDB database
+    digest: fc0cf8af2f6748a96cbe42cecb6bc9a976b3611a26669d2bdf40d14b181b5fcd
+    name: mongodb
+    urls:
+    - mongodb-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    appVersion: 4.0.6
+    created: "2020-12-02T08:47:25.100747319Z"
+    description: MongoDB Object Oriented database
+    digest: aac7e9d5344d6c46844b0b1f968468d931ea54b62d3dcb772bcaf8b676c50374
+    home: https://www.mongodb.com
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: Giacomo Longo
+    name: mongodb
+    sources:
+    - https://github.com/mongodb/mongo
+    urls:
+    - mongodb-0.0.11.tgz
+    version: 0.0.11
+  - apiVersion: v1
+    appVersion: 4.0.6
+    created: "2020-12-02T08:47:25.099767108Z"
+    description: MongoDB Object Oriented database
+    digest: 9ef850c2e435847021e2daee3507e5095a0bb12a640331bd29e68acb9d5d7f1b
+    home: https://www.mongodb.com
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: Giacomo Longo
+    name: mongodb
+    sources:
+    - https://github.com/mongodb/mongo
+    urls:
+    - mongodb-0.0.10.tgz
+    version: 0.0.10
+  - apiVersion: v1
+    appVersion: 4.0.6
+    created: "2020-12-02T08:47:25.106562985Z"
+    description: MongoDB Object Oriented database
+    digest: 953e9a5cb67480a583d10728f300e1385a181efaa8eecba578bd2fd8a986dbf0
+    home: https://www.mongodb.com
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: Giacomo Longo
+    name: mongodb
+    sources:
+    - https://github.com/mongodb/mongo
+    urls:
+    - mongodb-0.0.9.tgz
+    version: 0.0.9
+  - apiVersion: v1
+    appVersion: 4.0.6
+    created: "2020-12-02T08:47:25.105657175Z"
+    description: MongoDB Object Oriented database
+    digest: 3ec830dc6ce7480f9c6ff0059d407a467d02b0918dcb743eef4d406d85ec74ff
+    home: https://www.mongodb.com
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: Giacomo Longo
+    name: mongodb
+    sources:
+    - https://github.com/mongodb/mongo
+    urls:
+    - mongodb-0.0.8.tgz
+    version: 0.0.8
+  - apiVersion: v1
+    appVersion: 4.0.6
+    created: "2020-12-02T08:47:25.104759465Z"
+    description: MongoDB Object Oriented database
+    digest: 1c03f812cc551e992ccbff50206a3c0bff284e755a01ae3b274743c62d4889eb
+    home: https://www.mongodb.com
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: Giacomo Longo
+    name: mongodb
+    sources:
+    - https://github.com/mongodb/mongo
+    urls:
+    - mongodb-0.0.7.tgz
+    version: 0.0.7
+  - apiVersion: v1
+    appVersion: 4.0.6
+    created: "2020-12-02T08:47:25.103916855Z"
+    description: MongoDB Object Oriented database
+    digest: bcc01ce6ce38d46feb400b5c1c0243edc819f2d3d777265a6c2a533663a488bd
+    home: https://www.mongodb.com
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: Giacomo Longo
+    name: mongodb
+    sources:
+    - https://github.com/mongodb/mongo
+    urls:
+    - mongodb-0.0.6.tgz
+    version: 0.0.6
+  - apiVersion: v1
+    appVersion: 4.0.5
+    created: "2020-12-02T08:47:25.103122546Z"
+    description: MongoDB Object Oriented database
+    digest: dc3b532aa9c9810f8c7b6035f0d94bc8bb192f96d892a919fa1a8dffb366370c
+    home: https://www.mongodb.com
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: Giacomo Longo
+    name: mongodb
+    sources:
+    - https://github.com/mongodb/mongo
+    urls:
+    - mongodb-0.0.5.tgz
+    version: 0.0.5
+  - apiVersion: v1
+    appVersion: 4.0.5
+    created: "2020-12-02T08:47:25.102352137Z"
+    description: MongoDB Object Oriented database
+    digest: deee9949884d6b61913e061204fd98c815714527ac96477fadac17fb4f4c8aa7
+    home: https://www.mongodb.com
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: Giacomo Longo
+    name: mongodb
+    sources:
+    - https://github.com/mongodb/mongo
+    urls:
+    - mongodb-0.0.4.tgz
+    version: 0.0.4
+  - apiVersion: v1
+    appVersion: 4.0.5
+    created: "2020-12-02T08:47:25.101572328Z"
+    description: MongoDB Object Oriented database
+    digest: f70921133bddd938a6e23fc3245f4a0e620bfd8afc12486925669e291af6fdcc
+    home: https://www.mongodb.com
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: Giacomo Longo
+    name: mongodb
+    sources:
+    - https://github.com/mongodb/mongo
+    urls:
+    - mongodb-0.0.3.tgz
+    version: 0.0.3
+  - apiVersion: v1
+    appVersion: 4.0.5
+    created: "2020-12-02T08:47:25.098838197Z"
+    description: MongoDB Object Oriented database
+    digest: 800a85fed82c9c3a10e027e7fe73cd7568508300d26e9dea3934993546b3c7f5
+    home: https://www.mongodb.com
+    maintainers:
+    - email: gabibbo97@gmail.com
+      name: Giacomo Longo
+    name: mongodb
+    sources:
+    - https://github.com/mongodb/mongo
+    urls:
+    - mongodb-0.0.1.tgz
+    version: 0.0.1
+  papermc:
+  - apiVersion: v2
+    appVersion: 1.15.2
+    created: "2020-12-02T08:47:25.111521642Z"
+    description: Deploy the PaperMC Minecraft server
+    digest: 80b0b80568cd1a4e1797e1176363b23389c100dbd8a4e7ebd4ea8f5a98ffcb7c
+    name: papermc
+    type: application
+    urls:
+    - papermc-0.1.11.tgz
+    version: 0.1.11
+  - apiVersion: v2
+    appVersion: 1.15.2-155
+    created: "2020-12-02T08:47:25.110831434Z"
+    description: Deploy the PaperMC Minecraft server
+    digest: 75c83872761c8cef8f2b7d636b14b927ef140d7ebc8e40563fd6f159d7fa4543
+    name: papermc
+    type: application
+    urls:
+    - papermc-0.1.10.tgz
+    version: 0.1.10
+  - apiVersion: v2
+    appVersion: 1.15.2-153
+    created: "2020-12-02T08:47:25.117007205Z"
+    description: Deploy the PaperMC Minecraft server
+    digest: 09b55b884956e058c78b6eae347040cc91cea5ed050c105adca25d16aa8f2351
+    name: papermc
+    type: application
+    urls:
+    - papermc-0.1.9.tgz
+    version: 0.1.9
+  - apiVersion: v2
+    appVersion: 1.15.2-149
+    created: "2020-12-02T08:47:25.116290396Z"
+    description: Deploy the PaperMC Minecraft server
+    digest: f87bbc9dcd696f4f8c9c04311ea5fae195d051ff69207faa5c13a1066ebf1563
+    name: papermc
+    type: application
+    urls:
+    - papermc-0.1.8.tgz
+    version: 0.1.8
+  - apiVersion: v2
+    appVersion: 1.15.2-146
+    created: "2020-12-02T08:47:25.115622189Z"
+    description: Deploy the PaperMC Minecraft server
+    digest: 1bda62a16f7b13e68841ed8436fd46eb11c8b07ffd681fe2b598bf7964667aff
+    name: papermc
+    type: application
+    urls:
+    - papermc-0.1.7.tgz
+    version: 0.1.7
+  - apiVersion: v2
+    appVersion: 1.15.2-146
+    created: "2020-12-02T08:47:25.11485408Z"
+    description: Deploy the PaperMC Minecraft server
+    digest: 8cf6c581cac8551e6a041b0f64418c000be27a96793fcff38c5ef895bb7a55c0
+    name: papermc
+    type: application
+    urls:
+    - papermc-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
+    appVersion: 1.15.2-144
+    created: "2020-12-02T08:47:25.114206873Z"
+    description: Deploy the PaperMC Minecraft server
+    digest: afb3d2623799f0f6bbdbe08e0902d865a07772c212c1cd4d3a75304e3e71e089
+    name: papermc
+    type: application
+    urls:
+    - papermc-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    appVersion: 1.15.2-144
+    created: "2020-12-02T08:47:25.113512465Z"
+    description: Deploy the PaperMC Minecraft server
+    digest: 3e8ae4c64de7cd65b8f04fa14c062e359c07f29e9f99275348dfc7f27706a79a
+    name: papermc
+    type: application
+    urls:
+    - papermc-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.15.2-144
+    created: "2020-12-02T08:47:25.112850957Z"
+    description: Deploy the PaperMC Minecraft server
+    digest: 6138953a7d1e9332bee1bb52a08f229deec177ecbbd6d77761fcd49af0375a03
+    name: papermc
+    type: application
+    urls:
+    - papermc-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.15.2-144
+    created: "2020-12-02T08:47:25.112169549Z"
+    description: Deploy the PaperMC Minecraft server
+    digest: 667c79b50af7b5a3d9e1fb0383c43250522d1c9436ede3c5837e494163d2c189
+    name: papermc
+    type: application
+    urls:
+    - papermc-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.15.2-143
+    created: "2020-12-02T08:47:25.110132626Z"
+    description: Deploy the PaperMC Minecraft server
+    digest: d7ac32f871d82eb15611b9b2f485664c9cba4519442bb5f66fe9b6508cf3adf0
+    name: papermc
+    type: application
+    urls:
+    - papermc-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.15.2-143
+    created: "2020-12-02T08:47:25.109100314Z"
+    description: Deploy the PaperMC Minecraft server
+    digest: c77349e1164c3e63de07ba2ce9bf63acbdf676c3155c1e868ec231cf1b97fbe0
+    name: papermc
+    type: application
+    urls:
+    - papermc-0.1.0.tgz
+    version: 0.1.0
+  periodic-daemonset:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2020-12-02T08:47:25.118656523Z"
+    deprecated: true
+    description: Periodically run a job
+    digest: 44201fae9c78192d5af2ced6b0fcc9a5a9b58c6bc71baa7f8997a603be3aa8af
+    name: periodic-daemonset
+    urls:
+    - periodic-daemonset-2.0.0.tgz
+    version: 2.0.0
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-12-02T08:47:25.118231919Z"
+    description: Periodically run a job
+    digest: e95b1538840c0f9f352e3d8621ed12a2f0f1626b61d635fcb7fdc6571963d236
+    name: periodic-daemonset
+    urls:
+    - periodic-daemonset-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-12-02T08:47:25.117791014Z"
+    description: Periodically run a job
+    digest: 79ffd6503c65d740aba91361ce706e35d8a8731863f9486f4a58ed973ec17280
+    name: periodic-daemonset
+    urls:
+    - periodic-daemonset-1.0.1.tgz
+    version: 1.0.1
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-12-02T08:47:25.117425109Z"
+    description: Periodically run a job
+    digest: 14a64e8e4c49af13e6cf8397c5c7d985dfde13eef9886869aa5f506580265554
+    name: periodic-daemonset
+    urls:
+    - periodic-daemonset-1.0.0.tgz
+    version: 1.0.0
+  pullsecret:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2020-12-02T08:47:25.119393732Z"
+    deprecated: true
+    description: Image pull secrets
+    digest: 9220771e48101ff593d330d213a2b3c9fbf9c985d1252df3c1460193eaf2c1bb
+    name: pullsecret
+    urls:
+    - pullsecret-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2020-12-02T08:47:25.119119029Z"
+    deprecated: true
+    description: Image pull secrets
+    digest: 88e61d0f8ecb6525da33fbd0f9ee6e2e8befae566c54f616dc9db5b895041495
+    name: pullsecret
+    urls:
+    - pullsecret-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2020-12-02T08:47:25.118897926Z"
+    description: Image pull secrets
+    digest: 40d01e98e8e99eeed0782efa8007782d608d7391e857e27bbee78f43942dbfeb
+    name: pullsecret
+    urls:
+    - pullsecret-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-12-02T08:47:25.049378131Z"
